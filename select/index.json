@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Thank You",
+  "base_artist": "Bialystocks",
+  "createdAt": "2025-12-02T20:54:40.374222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thank You - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_Thank_You_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thank You",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_Thank_You_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thank You Stanislav Yevgrafovich Petrov",
+      "artist": "L'elan Vital",
+      "has_synced": true,
+      "path": "select/03_Thank_You_Stanislav_Yevgrafovich_Petrov_L'elan_Vital.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thank You Too!",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/04_Thank_You_Too!_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thank You For The Good Times",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Thank_You_For_The_Good_Times_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thank You For The Good Times",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/06_Thank_You_For_The_Good_Times_Oasis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thank You for Hearing Me - Edit",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/07_Thank_You_for_Hearing_Me_-_Edit_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thank You for Hearing Me",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/08_Thank_You_for_Hearing_Me_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thank You For Hearing Me",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/09_Thank_You_For_Hearing_Me_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thank You Friends",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/10_Thank_You_Friends_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "thank you song",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/11_thank_you_song_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God Thank You Woman",
+      "artist": "Culture Club",
+      "has_synced": false,
+      "path": "select/12_God_Thank_You_Woman_Culture_Club.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God Thank You Woman - Extended Version",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/13_God_Thank_You_Woman_-_Extended_Version_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thank You",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/14_Thank_You_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thank You #19",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/15_Thank_You__19_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thank You For Sending Me An Angel",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/16_Thank_You_For_Sending_Me_An_Angel_Talking_Heads.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thank You",
+      "artist": "Bialystocks",
+      "has_synced": false,
+      "path": "select/pl_01_Thank_You_Bialystocks.txt"
+    }
+  ]
+}
